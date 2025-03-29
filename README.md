@@ -5,12 +5,24 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I'm into all kinds of board activities — from longboarding and snowboarding to keyboarding and even boarding my way through Jira. ;) 
+
+Header and Introduction
+
+🚀 Personal Projects:
+Pirates
+Chess
+
+🛠️ Utility Repositories:
+A* Path finding
+Min Max
+Gameplay Execution Engine
+Shader Collection
+
+🧙‍♂️ Side Quests:
+- Compute Shader Mesh Vertex transformer.
+- Compute Shader Pixel color counter.
+- Fluid Simulation.
+- Flocking Behaviour.
 -->
