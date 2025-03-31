@@ -1,21 +1,25 @@
 ## Hi there 👋
 
 ### 🚀 Personal Projects:
-
+<!--
 [![Repo](https://img.shields.io/badge/GitHub-Pirates-blue?logo=github)](https://github.com/Mirrro/Pirates)
+-->
 [![Repo](https://img.shields.io/badge/GitHub-Chess-blue?logo=github)](https://github.com/Mirrro/Chess)
 
 ### 🛠️ Utility Repositories:
 [![Repo](https://img.shields.io/badge/GitHub-A--Star--Pathfinding-blue?logo=github)](https://github.com/Mirrro/a-star-pathfinding)
+<!--
 [![Repo](https://img.shields.io/badge/GitHub-Min--Max--Algorithm-blue?logo=github)](https://github.com/Mirrro/Min-Max-Algorithm)
 [![Repo](https://img.shields.io/badge/GitHub-Shader%20Collection-blue?logo=github)](https://github.com/Mirrro/Shader-Collection)
-
+-->
+<!--
 🧙‍♂️ Side Quests:
 - Compute Shader Mesh Vertex transformer
 - Compute Shader Pixel color counter
 - Fluid Simulation
 - Flocking Behaviour
 - Teaching effect of satisfaction
+-->
 
 ### 🧑‍🎓 Student Projects:
 
