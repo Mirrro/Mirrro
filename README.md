@@ -19,15 +19,14 @@
 
 ### 🧑‍🎓 Student Projects:
 
-[![Repo](https://img.shields.io/badge/Youtube-Project%20Ineo%20@%20HTL%20Spengergasse-red?logo=youtube&logoColor=white)](https://youtu.be/nRvChQRih8M)
-
-- [Project Ineo](https://wko.tv/video/7585) @ HTL Spengergasse
-- [White Rabbit](https://martinbremer.itch.io/white-rabbit) @ UE Berlin
-- [BoardGame Anchestor Sin](https://mawoopy.itch.io/the-ancestors-sin) @ UE Berlin
+[![Youtube](https://img.shields.io/badge/Youtube-Project%20Ineo%20@%20HTL%20Spengergasse-red?logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=qEGhrObEmQ8)
+[![Itch.io](https://img.shields.io/badge/Itch.io-White%20Rabbit%20@%20UE%20Berlin-red?logo=itch.io&logoColor=white)](https://martinbremer.itch.io/white-rabbit)
+[![Itch.io](https://img.shields.io/badge/Itch.io-Anchestor%20Sin%20@%20UE%20Berlin-red?logo=itch.io&logoColor=white)](https://martinbremer.itch.io/white-rabbit)
 
 🎮 Game Jams
-- [Clumsy Mechanics](https://v3.globalgamejam.org/2020/games/clumsy-mechanics-6) @ Global Game Jam
-- [Turd Tycoon](https://hub.skymavis.com/games/turd-tycoon?from=%2Faxie-game-jam%2F2023%2Fsubmissions&name=Axie+Game+Jam+2023&filter=filterBy%253Dtop_rate%2526page%253D3) @ Axie Game Jam
+
+[![Webiste](https://img.shields.io/badge/Web-Clumsy%20Mechanics%20@%20Global%20Game%20Jam-blue)](https://v3.globalgamejam.org/2020/games/clumsy-mechanics-6)
+[![Webiste](https://img.shields.io/badge/Web-Turd%20Tycoon%20@%20Axie%20Game%20Jam-blue)](https://hub.skymavis.com/games/turd-tycoon)
 
 <!--
 **Mirrro/Mirrro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
