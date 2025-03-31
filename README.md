@@ -5,7 +5,7 @@
 - [Chess](https://github.com/Mirrro/Chess)
 
 🛠️ Utility Repositories:
-- A* Path finding
+- [A* Path finding](https://github.com/Mirrro/A-Star-Pathfinding)
 - Min Max
 - Gameplay Execution Engine
 - Shader Collection
