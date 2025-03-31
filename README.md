@@ -5,10 +5,9 @@
 - [Chess](https://github.com/Mirrro/Chess)
 
 🛠️ Utility Repositories:
-- [A* Path finding](https://github.com/Mirrro/A-Star-Pathfinding)
-- Min Max
-- Gameplay Execution Engine
-- Shader Collection
+- [A* Path Finding](https://github.com/Mirrro/A-Star-Pathfinding)
+- [Min Max Algorithm](https://github.com/Mirrro/Min-Max-Algorithm)
+- [Shader Collection](https://github.com/Mirrro/Shader-Collection)
 
 🧙‍♂️ Side Quests:
 - Compute Shader Mesh Vertex transformer
