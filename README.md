@@ -1,13 +1,14 @@
 ## Hi there 👋
 
-🚀 Personal Projects:
-- [Pirates](https://github.com/Mirrro/Pirates)
-- [Chess](https://github.com/Mirrro/Chess)
+### 🚀 Personal Projects:
 
-🛠️ Utility Repositories:
-- [A* Path Finding](https://github.com/Mirrro/A-Star-Pathfinding)
-- [Min Max Algorithm](https://github.com/Mirrro/Min-Max-Algorithm)
-- [Shader Collection](https://github.com/Mirrro/Shader-Collection)
+[![Repo](https://img.shields.io/badge/GitHub-Pirates-blue?logo=github)](https://github.com/Mirrro/Pirates)
+[![Repo](https://img.shields.io/badge/GitHub-Chess-blue?logo=github)](https://github.com/Mirrro/Chess)
+
+### 🛠️ Utility Repositories:
+[![Repo](https://img.shields.io/badge/GitHub-A--Star--Pathfinding-blue?logo=github)](https://github.com/Mirrro/a-star-pathfinding)
+[![Repo](https://img.shields.io/badge/GitHub-Min--Max--Algorithm-blue?logo=github)](https://github.com/Mirrro/Min-Max-Algorithm)
+[![Repo](https://img.shields.io/badge/GitHub-Shader%20Collection-blue?logo=github)](https://github.com/Mirrro/Shader-Collection)
 
 🧙‍♂️ Side Quests:
 - Compute Shader Mesh Vertex transformer
@@ -16,7 +17,10 @@
 - Flocking Behaviour
 - Teaching effect of satisfaction
 
-🧑‍🎓 Student Projects
+### 🧑‍🎓 Student Projects:
+
+[![Repo](https://img.shields.io/badge/Youtube-Project%20Ineo%20@%20E--Day-blue?logo=youtube&logoColor=white)](https://youtu.be/nRvChQRih8M)
+
 - [Project Ineo](https://wko.tv/video/7585) @ HTL Spengergasse
 - [White Rabbit](https://martinbremer.itch.io/white-rabbit) @ UE Berlin
 - [BoardGame Anchestor Sin](https://mawoopy.itch.io/the-ancestors-sin) @ UE Berlin
