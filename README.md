@@ -19,7 +19,7 @@
 
 ### 🧑‍🎓 Student Projects:
 
-[![Repo](https://img.shields.io/badge/Youtube-Project%20Ineo%20@%20E--Day-blue?logo=youtube&logoColor=white)](https://youtu.be/nRvChQRih8M)
+[![Repo](https://img.shields.io/badge/Youtube-Project%20Ineo%20@%20E--Day-red?logo=youtube&logoColor=white)](https://youtu.be/nRvChQRih8M)
 
 - [Project Ineo](https://wko.tv/video/7585) @ HTL Spengergasse
 - [White Rabbit](https://martinbremer.itch.io/white-rabbit) @ UE Berlin
