@@ -6,15 +6,9 @@
 -->
 [![Repo](https://img.shields.io/badge/GitHub-Chess-blue?logo=github)](https://github.com/Mirrro/Chess)
 
-### 🛠️ Utility Repositories:
-[![Repo](https://img.shields.io/badge/GitHub-A--Star--Pathfinding-blue?logo=github)](https://github.com/Mirrro/a-star-pathfinding)
-[![Repo](https://img.shields.io/badge/GitHub-Audio%20Sampling-blue?logo=github)](https://github.com/Mirrro/AudioSampling)
+### 🧙‍♂️ Side Quests:
+[![Repo](https://img.shields.io/badge/GitHub-Flocking%20ECS-blue?logo=github)](https://github.com/Mirrro/AudioSampling)
 <!--
-[![Repo](https://img.shields.io/badge/GitHub-Min--Max--Algorithm-blue?logo=github)](https://github.com/Mirrro/Min-Max-Algorithm)
-[![Repo](https://img.shields.io/badge/GitHub-Shader%20Collection-blue?logo=github)](https://github.com/Mirrro/Shader-Collection)
--->
-<!--
-🧙‍♂️ Side Quests:
 - Compute Shader Mesh Vertex transformer
 - Compute Shader Pixel color counter
 - Fluid Simulation
@@ -22,16 +16,24 @@
 - Teaching effect of satisfaction
 -->
 
-### 🧑‍🎓 Student Projects:
-
-[![Youtube](https://img.shields.io/badge/Youtube-Project%20Ineo%20@%20HTL%20Spengergasse-red?logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=qEGhrObEmQ8)
-[![Itch.io](https://img.shields.io/badge/Itch.io-White%20Rabbit%20@%20UE%20Berlin-red?logo=itch.io&logoColor=white)](https://martinbremer.itch.io/white-rabbit)
-[![Itch.io](https://img.shields.io/badge/Itch.io-Anchestor%20Sin%20@%20UE%20Berlin-red?logo=itch.io&logoColor=white)](https://martinbremer.itch.io/white-rabbit)
+### 🛠️ Utility Repositories:
+[![Repo](https://img.shields.io/badge/GitHub-A--Star--Pathfinding-blue?logo=github)](https://github.com/Mirrro/a-star-pathfinding) \
+[![Repo](https://img.shields.io/badge/GitHub-Audio%20Sampling-blue?logo=github)](https://github.com/Mirrro/AudioSampling)
+<!--
+[![Repo](https://img.shields.io/badge/GitHub-Min--Max--Algorithm-blue?logo=github)](https://github.com/Mirrro/Min-Max-Algorithm)
+[![Repo](https://img.shields.io/badge/GitHub-Shader%20Collection-blue?logo=github)](https://github.com/Mirrro/Shader-Collection)
+-->
 
 🎮 Game Jams
 
-[![Webiste](https://img.shields.io/badge/Web-Clumsy%20Mechanics%20@%20Global%20Game%20Jam-blue)](https://v3.globalgamejam.org/2020/games/clumsy-mechanics-6)
+[![Webiste](https://img.shields.io/badge/Web-Clumsy%20Mechanics%20@%20Global%20Game%20Jam-blue)](https://v3.globalgamejam.org/2020/games/clumsy-mechanics-6) \
 [![Webiste](https://img.shields.io/badge/Web-Turd%20Tycoon%20@%20Axie%20Game%20Jam-blue)](https://hub.skymavis.com/games/turd-tycoon)
+
+### 🧑‍🎓 Student Projects:
+
+[![Youtube](https://img.shields.io/badge/Youtube-Project%20Ineo%20@%20HTL%20Spengergasse-red?logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=qEGhrObEmQ8) \
+[![Itch.io](https://img.shields.io/badge/Itch.io-White%20Rabbit%20@%20UE%20Berlin-red?logo=itch.io&logoColor=white)](https://martinbremer.itch.io/white-rabbit) \
+[![Itch.io](https://img.shields.io/badge/Itch.io-Anchestor%20Sin%20@%20UE%20Berlin-red?logo=itch.io&logoColor=white)](https://martinbremer.itch.io/white-rabbit)
 
 <!--
 **Mirrro/Mirrro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
