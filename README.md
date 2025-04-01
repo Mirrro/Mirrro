@@ -7,7 +7,7 @@
 [![Repo](https://img.shields.io/badge/GitHub-Chess-blue?logo=github)](https://github.com/Mirrro/Chess)
 
 ### 🧙‍♂️ Side Quests:
-[![Repo](https://img.shields.io/badge/GitHub-Flocking%20ECS-blue?logo=github)](https://github.com/Mirrro/AudioSampling)
+[![Repo](https://img.shields.io/badge/GitHub-Flocking%20ECS-blue?logo=github)](https://github.com/Mirrro/Flocking)
 <!--
 - Compute Shader Mesh Vertex transformer
 - Compute Shader Pixel color counter
