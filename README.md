@@ -1,14 +1,10 @@
 ## Hi there 👋
 
-### 🚀 Personal Projects:
-<!--
-[![Repo](https://img.shields.io/badge/GitHub-Pirates-blue?logo=github)](https://github.com/Mirrro/Pirates)
--->
-[![Repo](https://img.shields.io/badge/GitHub-Chess-blue?logo=github)](https://github.com/Mirrro/Chess)
-
 ### 🧙‍♂️ Side Quests:
+[![Repo](https://img.shields.io/badge/GitHub-Chess-blue?logo=github)](https://github.com/Mirrro/Chess) \
 [![Repo](https://img.shields.io/badge/GitHub-Flocking%20ECS-blue?logo=github)](https://github.com/Mirrro/Flocking)
 <!--
+[![Repo](https://img.shields.io/badge/GitHub-Pirates-blue?logo=github)](https://github.com/Mirrro/Pirates)
 - Compute Shader Mesh Vertex transformer
 - Compute Shader Pixel color counter
 - Fluid Simulation
