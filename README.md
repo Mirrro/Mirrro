@@ -20,7 +20,7 @@
 [![Repo](https://img.shields.io/badge/GitHub-Shader%20Collection-blue?logo=github)](https://github.com/Mirrro/Shader-Collection)
 -->
 
-🎮 Game Jams
+### 🎮 Game Jams
 
 [![Webiste](https://img.shields.io/badge/Web-Clumsy%20Mechanics%20@%20Global%20Game%20Jam-blue)](https://v3.globalgamejam.org/2020/games/clumsy-mechanics-6) \
 [![Webiste](https://img.shields.io/badge/Web-Turd%20Tycoon%20@%20Axie%20Game%20Jam-blue)](https://hub.skymavis.com/games/turd-tycoon)
