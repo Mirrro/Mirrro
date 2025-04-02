@@ -14,7 +14,10 @@
 
 ### 🛠️ Utility Repositories:
 [![Repo](https://img.shields.io/badge/GitHub-A--Star--Pathfinding-blue?logo=github)](https://github.com/Mirrro/a-star-pathfinding) \
+[![Repo](https://img.shields.io/badge/GitHub-Vector%20Field%20Baker-blue?logo=github)](https://github.com/Mirrro/VectorFieldBaker) \
 [![Repo](https://img.shields.io/badge/GitHub-Audio%20Sampling-blue?logo=github)](https://github.com/Mirrro/AudioSampling)
+
+
 <!--
 [![Repo](https://img.shields.io/badge/GitHub-Min--Max--Algorithm-blue?logo=github)](https://github.com/Mirrro/Min-Max-Algorithm)
 [![Repo](https://img.shields.io/badge/GitHub-Shader%20Collection-blue?logo=github)](https://github.com/Mirrro/Shader-Collection)
