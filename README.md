@@ -1,6 +1,6 @@
 ![banner](https://github.com/user-attachments/assets/b8f51bd7-af10-459f-9959-209b60e630ab)
 
-### 🧙‍♂️ Side Quests:
+## 🧙‍♂️ Side Quests:
 [![Repo](https://img.shields.io/badge/GitHub-Chess-blue?logo=github)](https://github.com/Mirrro/Chess) \
 [![Repo](https://img.shields.io/badge/GitHub-Flocking%20ECS-blue?logo=github)](https://github.com/Mirrro/Flocking)
 <!--
@@ -12,7 +12,7 @@
 - Teaching effect of satisfaction
 -->
 
-### 🛠️ Utility Repositories:
+## 🛠️ Utility Repositories:
 [![Repo](https://img.shields.io/badge/GitHub-A--Star--Pathfinding-blue?logo=github)](https://github.com/Mirrro/a-star-pathfinding) \
 [![Repo](https://img.shields.io/badge/GitHub-Vector%20Field%20Baker-blue?logo=github)](https://github.com/Mirrro/VectorFieldBaker) \
 [![Repo](https://img.shields.io/badge/GitHub-Audio%20Sampling-blue?logo=github)](https://github.com/Mirrro/AudioSampling)
@@ -23,12 +23,12 @@
 [![Repo](https://img.shields.io/badge/GitHub-Shader%20Collection-blue?logo=github)](https://github.com/Mirrro/Shader-Collection)
 -->
 
-### 🎮 Game Jams
+## 🎮 Game Jams
 
 [![Webiste](https://img.shields.io/badge/Web-Clumsy%20Mechanics%20@%20Global%20Game%20Jam-blue)](https://v3.globalgamejam.org/2020/games/clumsy-mechanics-6) \
 [![Webiste](https://img.shields.io/badge/Web-Turd%20Tycoon%20@%20Axie%20Game%20Jam-blue)](https://hub.skymavis.com/games/turd-tycoon)
 
-### 🧑‍🎓 Student Projects:
+## 🧑‍🎓 Student Projects:
 
 [![Youtube](https://img.shields.io/badge/Youtube-Project%20Ineo%20@%20HTL%20Spengergasse-red?logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=qEGhrObEmQ8) \
 [![Itch.io](https://img.shields.io/badge/Itch.io-White%20Rabbit%20@%20UE%20Berlin-red?logo=itch.io&logoColor=white)](https://martinbremer.itch.io/white-rabbit) \
