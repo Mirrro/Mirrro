@@ -1,5 +1,5 @@
 
-![banner](https://github.com/user-attachments/assets/97ceea6b-fc09-4c03-8e67-d31cedb851fd)
+![banner](https://github.com/user-attachments/assets/fbeb23b4-70f9-492d-87a8-271281c3071d)
 
 ### 🧙‍♂️ Side Quests:
 [![Repo](https://img.shields.io/badge/GitHub-Chess-blue?logo=github)](https://github.com/Mirrro/Chess) \
