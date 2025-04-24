@@ -1,4 +1,4 @@
-## Hi there 👋
+![banner](https://github.com/user-attachments/assets/4c2b0b30-40f2-43f9-9025-fecdc4d68102)
 
 ### 🧙‍♂️ Side Quests:
 [![Repo](https://img.shields.io/badge/GitHub-Chess-blue?logo=github)](https://github.com/Mirrro/Chess) \
